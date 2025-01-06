@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **barmasemonika8@gmail.com**
 
-- ⚡ Fun fact **Historian **
+- ⚡ Fun fact **Historiography **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
