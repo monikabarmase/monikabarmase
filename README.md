@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikabarmase&label=Profile%20views&color=0e75b6&style=flat" alt="monikabarmase" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
 
-- 💬 Ask me about **Java,SQL,Databases**
+- 💬 Ask me about **Java Frameworks, SQL, Databases**
 
 - 📫 How to reach me **barmasemonika8@gmail.com**
 
