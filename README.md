@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikabarmase&label=Profile%20views&color=0e75b6&style=flat" alt="monikabarmase" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
+- 🌱 I’m currently learning ** React • Express • MongoDB • Next.js  
+Building clean & responsive UIs **
 
-- 💬 Ask me about **Java Frameworks, SQL, Databases**
+- 💬 Ask me about **Java, SQL **
 
 - 📫 How to reach me **barmasemonika8@gmail.com**
 
-- ⚡ Fun fact **Historiography **
+- ⚡ Fun fact **    **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
